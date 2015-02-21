@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" replicaid="49257DF200814EF1" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="186" sequence="8" unid="8C87FBFC40169FDC49257DF200835D2C">
+<created><datetime>20150221T085450,68+09</datetime></created>
+<modified><datetime>20150221T091312,49+09</datetime></modified>
+<revised><datetime>20150221T091312,48+09</datetime></revised>
+<lastaccessed><datetime>20150221T091312,49+09</datetime></lastaccessed>
+<addedtofile><datetime>20150221T085450,69+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<item name="$TITLE" sign="true"><text>PostalCodeImport_JSS</text></item>
+<item name="$Flags"><text>.5834Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+</note>

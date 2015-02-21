@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='view' xmlns='http://www.lotus.com/dxl' version='9.0'
+ replicaid='49257DF200814EF1'>
+<noteinfo noteid='116' unid='F1537F60BE3A13E049257DF200814EF5' sequence='1'>
+<created><datetime>20150221T083223,57+09</datetime></created>
+<modified><datetime>20150221T083223,59+09</datetime></modified>
+<revised><datetime>20150221T083223,58+09</datetime></revised>
+<lastaccessed><datetime>20150221T085135,70+09</datetime></lastaccessed>
+<addedtofile><datetime>20150221T083223,59+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
+<item name='$TITLE'><text/></item>
+<item name='$Formula' summary='true'><formula compiled='true'>
+HAAFAA4ACgABAAQAJCQkJAQABAAAAAgAZgADAA==
+</formula></item>
+<item name='$FormulaClass'><text>1</text></item></note>
+

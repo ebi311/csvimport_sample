@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" replicaid="49257DF200814EF1" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="162" sequence="17" unid="0509EC2BDA8E690049257DF2008272A4">
+<created><datetime>20150221T084450,28+09</datetime></created>
+<modified><datetime>20150221T090035,50+09</datetime></modified>
+<revised><datetime>20150221T090035,49+09</datetime></revised>
+<lastaccessed><datetime>20150221T090035,50+09</datetime></lastaccessed>
+<addedtofile><datetime>20150221T084450,29+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$TITLE"><text>PostalCodeImport.xsp</text></item>
+
+
+
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+
+<item name="$FileNames" sign="true"><text>PostalCodeImport.xsp</text></item></note>
