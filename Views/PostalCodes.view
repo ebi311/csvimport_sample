@@ -1,30 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257DF200814EF1'>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='49257DF300452565'>
 <noteinfo noteid='15e' unid='091E727071248CBA49257DF2008237BB' sequence='4'>
 <created><datetime>20150221T084219,47+09</datetime></created>
-<modified><datetime>20150221T085237,18+09</datetime></modified>
-<revised><datetime>20150221T085237,17+09</datetime></revised>
-<lastaccessed><datetime>20150221T085237,18+09</datetime></lastaccessed>
-<addedtofile><datetime>20150221T084219,49+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
-<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<modified><datetime>20150222T172409,51+09</datetime></modified>
+<revised><datetime>20150222T172409,50+09</datetime></revised>
+<lastaccessed><datetime>20150222T172409,51+09</datetime></lastaccessed>
+<addedtofile><datetime>20150221T214928,80+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></wassignedby>
 <item name='$FormulaClass' sign='true'><text>1</text></item>
 <item name='$TITLE' sign='true'><text>PostalCodes</text></item>
 <item name='$Index' sign='true'><text/></item>
 <item name='$Formula' summary='true' sign='true'><formula compiled='true'>
-UAAFAEIAPQAGAAoAAwANAAYACQAEAHBvc3RhbENvZGVrZW5zaGlrdWNob3Vzc29uYmFuY2hpJENv
+UAAFAEIAPQAGAAoAAwAMAAcACQAEAHBvc3RhbENvZGVrZW5zaGlrdWNob3Vzb25jaG91aWtpJENv
 bmZsaWN0JFJFRgAEAAQAAAAIAGYAAwA=
 </formula></item>
 <item name='$Collation' summary='true'>
 <rawitemdata type='2'>
-BgAAAABE
+FwABAABEAGYAAAAKAHBvc3RhbENvZGU=
 </rawitemdata></item>
 <item name='$ViewFormat' summary='true' sign='true'>
 <rawitemdata type='5'>
-AQAEAAQACAAAAFZDAAAKAAwAAAAAAFAAAQAACgAAAAAAAAAAAAICAAAAVkMAAAMAAwAAAAAAUAAB
-AAAKAAAAAAAAAAAAAgIAAABWQwAADQAMAAAAAABQAAEAAAoAAAAAAAAAAAACAgAAAFZDAAAGAAYA
+AQAEAAQACAAAAFZDAQAKAAwAAAAAAFAAAQAACgAAAAAAAAAAAAICAAAAVkMAAAMAAwAAAAAAUAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAADAAMAAAAAABQAAEAAAoAAAAAAAAAAAACAgAAAFZDAAAHAAYA
 AAAAAFAAAQAACgAAAAAAAAAAAAICAAAAcG9zdGFsQ29kZRCXWBCV1hCU1BCNhmtlbhCMp3NoaWt1
-Y2hvdXNzb24QjnMQi+YQkqwQkbpiYW5jaGkQlNQQkm4mAAEAAAABAQAJAQAACgEBDgoAAAEArSsB
+Y2hvdXNvbhCOcxCL5hCSrBCRumNob3Vpa2kQkqwQiOYmAAEAAAABAQAJAQAACgEBDgoAAAEArSsB
 AAEAAQAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAA
 AABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAA
 AAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAA

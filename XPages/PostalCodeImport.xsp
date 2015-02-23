@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+
+	<xp:this.resources>
+		<xp:script src="/PostalCodeImport_JSS.jss" clientSide="false"></xp:script>
+	</xp:this.resources>
 	<h1>郵便番号インポート</h1>
 	<div>
-		<p>郵便局ホームページからダウンロードしたCSVを指定してください。
-		</p>
+		<p>郵便局ホームページからダウンロードしたCSVを指定してください。</p>
 		<p>
 			<input type="file" name="postalCodeCsv" />
-			<xp:button value="import"></xp:button>
+			<xp:button value="import" id="button1">
+				<xp:eventHandler event="onclick" submit="true"
+					refreshMode="complete">
+					<xp:this.action><![CDATA[#{javascript:print('hoge');
+PostalCodeImport.csvImport();}]]></xp:this.action>
+				</xp:eventHandler>
+			</xp:button>
 		</p>
 	</div>
-	
-	<xp:viewPanel rows="30" id="viewPanel1">
+
+	<xp:viewPanel rows="30" id="viewPanel1" viewStyle="width:100%">
 		<xp:this.facets>
 			<xp:pager partialRefresh="true" layout="Previous Group Next"
 				xp:key="headerPager" id="pager1">
@@ -19,17 +28,20 @@
 		<xp:this.data>
 			<xp:dominoView var="view1" viewName="PostalCodes"></xp:dominoView>
 		</xp:this.data>
-		<xp:viewColumn columnName="postalCode" id="viewColumn1" style="width:8em">
+		<xp:viewColumn columnName="postalCode" id="viewColumn1"
+			style="width:5em">
 			<xp:viewColumnHeader value="郵便番号" id="viewColumnHeader1"></xp:viewColumnHeader>
 		</xp:viewColumn>
-		<xp:viewColumn columnName="ken" id="viewColumn2" style="width:8em">
+		<xp:viewColumn columnName="ken" id="viewColumn2"
+			style="width:5em">
 			<xp:viewColumnHeader value="県" id="viewColumnHeader2"></xp:viewColumnHeader>
 		</xp:viewColumn>
-		<xp:viewColumn columnName="shikuchousson" id="viewColumn3" style="width:20em">
+		<xp:viewColumn columnName="shikuchouson" id="viewColumn3"
+			style="width:10em">
 			<xp:viewColumnHeader value="市区町村" id="viewColumnHeader3"></xp:viewColumnHeader>
 		</xp:viewColumn>
-		<xp:viewColumn columnName="banchi" id="viewColumn4" style="width:8em">
-			<xp:viewColumnHeader value="番地" id="viewColumnHeader4"></xp:viewColumnHeader>
+		<xp:viewColumn columnName="chouiki" id="viewColumn4">
+			<xp:viewColumnHeader value="町域" id="viewColumnHeader4"></xp:viewColumnHeader>
 		</xp:viewColumn>
-</xp:viewPanel>
+	</xp:viewPanel>
 </xp:view>

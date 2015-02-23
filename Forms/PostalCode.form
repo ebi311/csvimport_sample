@@ -1,14 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257DF200814EF1'>
-<noteinfo noteid='15a' unid='9779826651AD0CB149257DF2008160D6' sequence='9'>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='49257DF300452565'>
+<noteinfo noteid='16a' unid='9779826651AD0CB149257DF2008160D6' sequence='5'>
 <created><datetime>20150221T083309,34+09</datetime></created>
-<modified><datetime>20150221T084205,84+09</datetime></modified>
-<revised><datetime>20150221T084205,83+09</datetime></revised>
-<lastaccessed><datetime>20150221T084205,84+09</datetime></lastaccessed>
-<addedtofile><datetime>20150221T083309,61+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></updatedby>
-<wassignedby><name>CN=Kenji Ebihara/OU=R/O=RSI</name></wassignedby>
+<modified><datetime>20150222T160728,12+09</datetime></modified>
+<revised><datetime>20150222T160728,11+09</datetime></revised>
+<lastaccessed><datetime>20150222T160728,12+09</datetime></lastaccessed>
+<addedtofile><datetime>20150221T214928,92+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></wassignedby>
 <item name='$Comment' sign='true'><text/></item>
+<item name='shiku' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='chouson' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='banchi' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
 <item name='$HTMLCode' sign='true'>
 <rawitemdata type='1'>
 X/8QAAIADwAHAAAAAAAAAA==
@@ -31,13 +41,13 @@ i/8oAAEABTVSaWN0eQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 <item name='ken' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='shikuchousson' placeholder='true'>
+<item name='shikuchouson' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='banchi' placeholder='true'>
+<item name='chouiki' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='$Fields'><textlist><text>banchi</text><text>shikuchousson</text><text
+<item name='$Fields'><textlist><text>chouiki</text><text>shikuchouson</text><text
 >ken</text><text>postalCode</text></textlist></item>
 <item name='$Body' sign='true'>
 <rawitemdata type='1'>
@@ -53,11 +63,11 @@ DQAFAAAMa2VuOgkA3QYAAIr//v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 eAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK/ygAigAABQAwAgAAAAAA
 AAIFAAAMAAAAAAAAAAADAAAAAABrZW4AYg4BAIQAAAAAAAAAAADeBgAAiv+F/wgABQAADIECgwQC
 AIX/FgAFAAAMc2hpa3VjaG91c29uOgndBgAAiv/+/1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAB4AHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIr/MgCK
-AAAFADACAAAAAAAAAgUAAAwAAAAAAAAAAA0AAAAAAHNoaWt1Y2hvdXNzb24AYg4BAIQAAAAAAAAA
-AADeBgAAiv+F/wgABQAADIECgwQCAIX/EAAFAAAMYmFuY2hpOgndBgAAiv/+/1AAAAAAAAAAAAAA
+AAAAAAAAAAAAAAB4AHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIr/MACK
+AAAFADACAAAAAAAAAgUAAAwAAAAAAAAAAAwAAAAAAHNoaWt1Y2hvdXNvbmIOAQCEAAAAAAAAAAAA
+3gYAAIr/hf8IAAUAAAyBAoMEAgCF/xEABQAADGNob3Vpa2k6CQDdBgAAiv/+/1AAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAIr/KgCKAAAFADACAAAAAAAAAgUAAAwAAAAAAAAAAAYAAAAAAGJhbmNoaWIOAQCE
-AAAAAAAAAAAA3gYAAIr/hf8IAAUAAAyBAoMEAgCF/wgABQAADIECgwQCAIX/CAAFAAAM
+AAAAAAAAAAAAAIr/LACKAAAFADACAAAAAAAAAgUAAAwAAAAAAAAAAAcAAAAAAGNob3Vpa2kAYg4B
+AIQAAAAAAAAAAADeBgAAiv+F/wgABQAADIECgwQCAIX/CAAFAAAMgQKDBAIAhf8IAAUAAAw=
 </rawitemdata></item></note>
 

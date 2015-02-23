@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="49257DF300452565" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2ae" sequence="2" unid="0EB39B6F67AF479149257DF40023D29E">
+<created><datetime>20150222T153116,78+09</datetime></created>
+<modified><datetime>20150222T153116,92+09</datetime></modified>
+<revised><datetime>20150222T153116,91+09</datetime></revised>
+<lastaccessed><datetime>20150222T153116,92+09</datetime></lastaccessed>
+<addedtofile><datetime>20150222T153116,79+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></updatedby>
+<wassignedby><name>CN=Kenji Ebihara/O=Kenji Ebihara</name></wassignedby>
+<item name="$TITLE"><text>super-csv-2.2.1.jar</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+<item name="$Flags"><text>34567Cg~,</text></item>
+
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>super-csv-2.2.1.jar</text></item></note>
